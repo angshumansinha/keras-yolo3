@@ -1,0 +1,16 @@
+AC
+Boiler
+CCTV
+Cylinder
+Fire Alarm
+Fire Extinguisher
+Lift
+Standard Floor
+Strong room
+Tiled Floor
+absetos roof
+computer
+concrete roof
+kitchen
+sand bucket
+smoke detector
